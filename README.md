@@ -3,3 +3,4 @@ Consists of basic command usage in C++
 
 1. Finding n prime numbers.
 2. Factorial
+3. NCR
