@@ -10,4 +10,5 @@ int main()
 
 }
     printf("%d",prod);
+    return 0;
 }
