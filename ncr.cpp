@@ -11,7 +11,8 @@ int main()
 {
     int n,r;
     float ans;
-    scanf("%d %d",&n,&r);
+    cin>>n>>r;
     ans=(fact(n)/(fact(r)*fact(n-r)));
-    printf("%f",ans);
+    cout<<ans;
+    return 0;
 }
