@@ -7,7 +7,6 @@ int main()
     for(i=1;i<=n;i++)
     {
         prod=prod*i;
-
     }
     cout<<prod;
     return 0;
