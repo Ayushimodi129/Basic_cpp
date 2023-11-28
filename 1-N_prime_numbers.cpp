@@ -1,5 +1,4 @@
-#include <iostream>
-#include <cmath> 
+#include <bits/stdc++.h> 
 using namespace std;
 int isprime(int n)
 {int i;
@@ -16,7 +15,6 @@ return 0;
     }
     return 1;
 }
-
 int main()
 { 
     int l,h,i;
